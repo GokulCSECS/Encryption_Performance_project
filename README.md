@@ -24,19 +24,14 @@ This project evaluates the performance of various encryption algorithms, includi
 ## Installation & Setup
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/encryption-performance-cloud.git
-   cd encryption-performance-cloud
+   git clone https://github.com/GokulCSECS/Encryption_Performance_project.git
+   cd Encryption_Performance_project
    ```
-2. **Create a virtual environment** (optional but recommended):
-   ```sh
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-3. **Install dependencies**:
+2. **Install dependencies**:
    ```sh
    pip install -r requirements.txt
    ```
-4. **Run the Streamlit application**:
+3. **Run the Streamlit application**:
    ```sh
    streamlit run app.py
    ```
@@ -57,13 +52,15 @@ This project evaluates the performance of various encryption algorithms, includi
 - Extend analysis with real-world cloud deployments.
 
 ## Contributors
-- Your Name ([GitHub Profile](https://github.com/your-username))
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- N.GOKUL
+-KISHAN JAISURYA
+-SREEKANNAN
+-PRASANTH
+-AADHITIYA
 
 ## Contact
 For any questions or collaborations, feel free to reach out via GitHub issues or email.
+-gokulcy18@gmail.com
 
 ---
-**GitHub Repository:** [Encryption Performance in Cloud](https://github.com/your-username/encryption-performance-cloud)
+**GitHub Repository:** [Encryption Performance in Cloud]((https://github.com/GokulCSECS/Encryption_Performance_project))
